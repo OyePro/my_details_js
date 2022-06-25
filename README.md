@@ -1,0 +1,1 @@
+writing my name, height and country with javascript
